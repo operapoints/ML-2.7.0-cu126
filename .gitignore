@@ -1,1 +1,7 @@
 env/
+tests/
+datasets/
+**/dataset/
+__pycache__/
+*.py[cod]
+*$git apy.class
